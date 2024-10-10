@@ -199,7 +199,7 @@ header.sticky .nav-bar {
 }
 
 .home-container .home-img img{
-    width:85%;
+    width:100%;
     transform: translate(0,0);
 }
 
